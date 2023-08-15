@@ -1,0 +1,6 @@
+/Users/atacan/Projects/frog.final/frog.final/bin/Debug/frog.final.exe
+/Users/atacan/Projects/frog.final/frog.final/bin/Debug/frog.final.pdb
+/Users/atacan/Projects/frog.final/frog.final/obj/Debug/frog.final.exe
+/Users/atacan/Projects/frog.final/frog.final/obj/Debug/frog.final.pdb
+/Users/atacan/Projects/frog.final/frog.final/obj/Debug/frog.final.csproj.AssemblyReference.cache
+/Users/atacan/Projects/frog.final/frog.final/obj/Debug/frog.final.csproj.CoreCompileInputs.cache

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{71C5FE4E-FC9F-4E0D-A88E-D01DCB8C0BBD}|Default">
+  <MonoDevelop.Ide.ItemProperties.frog.final PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="frog.final/Program.cs">
+    <Files>
+      <File FileName="frog.final/Program.cs" Line="199" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="frog.final" expanded="True">
+            <Node name="frog.final" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

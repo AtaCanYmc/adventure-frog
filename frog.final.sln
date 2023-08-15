@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frog.final", "frog.final\frog.final.csproj", "{71C5FE4E-FC9F-4E0D-A88E-D01DCB8C0BBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71C5FE4E-FC9F-4E0D-A88E-D01DCB8C0BBD}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{71C5FE4E-FC9F-4E0D-A88E-D01DCB8C0BBD}.Debug|anycpu.Build.0 = Debug|anycpu
+		{71C5FE4E-FC9F-4E0D-A88E-D01DCB8C0BBD}.Release|anycpu.ActiveCfg = Release|anycpu
+		{71C5FE4E-FC9F-4E0D-A88E-D01DCB8C0BBD}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
